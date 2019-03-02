@@ -113,22 +113,22 @@ Within the local project repository, create a new file called `monthly_sales.py`
 
 # TODO: write some Python code here to produce the desired functionality...
 
-print("-----------------------)
+print("-----------------------")
 print("MONTH: March 2018")
 
-print("-----------------------)
+print("-----------------------")
 print("CRUNCHING THE DATA...")
 
-print("-----------------------)
+print("-----------------------")
 print("TOTAL MONTHLY SALES: $12,000.71")
 
-print("-----------------------)
+print("-----------------------")
 print("TOP SELLING PRODUCTS:")
 print("  1) Button-Down Shirt: $6,960.35")
 print("  2) Super Soft Hoodie: $1,875.00")
 print("  3) etc.")
 
-print("-----------------------)
+print("-----------------------")
 print("VISUALIZING THE DATA...")
 ```
 
@@ -170,6 +170,6 @@ Info Outputs | Displays charts and graphs, including titles and axis labels | 20
 Info Outputs | Formats prices as USD | 5%
 Dev Process | Submitted via remote Git repository which reflects an incremental revision history | 20%
 
-If experiencing execution error(s) while evaluating the application's required functionality, evaluators are advised to reduce the project's grade by anywhere between 15% and 50%, depending on the circumstances and severity of the error(s).
+If experiencing execution error(s) while evaluating the application's required functionality, evaluators are advised to reduce the project's grade by anywhere between 4% and 50%, depending on the circumstances and severity of the error(s).
 
-In recognition of deliverables which exhibit functionality above and beyond the basic required functionality, evaluators are encouraged to award between 0.5% and 3.0% extra credit "engagement points" to be applied towards the final exam.
+In recognition of deliverables which exhibit functionality above and beyond the basic required functionality, evaluators are encouraged to award between 0.5% and 3.5% extra credit "engagement points" to be applied towards the final exam.
